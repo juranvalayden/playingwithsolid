@@ -1,0 +1,16 @@
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.exe
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.deps.json
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.runtimeconfig.json
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.runtimeconfig.dev.json
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.dll
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLIDExamples.pdb
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Development\SOLID\SOLIDExamples\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.csprojAssemblyReference.cache
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.AssemblyInfoInputs.cache
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.AssemblyInfo.cs
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.csproj.CoreCompileInputs.cache
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.csproj.CopyComplete
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.dll
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.pdb
+C:\Development\SOLID\SOLIDExamples\obj\Debug\netcoreapp3.1\SOLIDExamples.genruntimeconfig.cache
